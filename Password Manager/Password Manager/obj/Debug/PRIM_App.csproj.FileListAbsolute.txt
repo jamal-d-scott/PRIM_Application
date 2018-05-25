@@ -1,0 +1,16 @@
+C:\Users\scottj\source\repos\Password Manager\Password Manager\bin\Debug\Icons8.UI.dll
+C:\Users\scottj\source\repos\Password Manager\Password Manager\bin\Debug\MetroFramework.Design.dll
+C:\Users\scottj\source\repos\Password Manager\Password Manager\bin\Debug\MetroFramework.dll
+C:\Users\scottj\source\repos\Password Manager\Password Manager\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\scottj\source\repos\Password Manager\Password Manager\obj\Debug\PRIM_App.csprojResolveAssemblyReference.cache
+C:\Users\scottj\source\repos\Password Manager\Password Manager\obj\Debug\Password_Manager.DialogBox.resources
+C:\Users\scottj\source\repos\Password Manager\Password Manager\obj\Debug\Password_Manager.PRIM_Software.resources
+C:\Users\scottj\source\repos\Password Manager\Password Manager\obj\Debug\PRIM_App.csproj.GenerateResource.cache
+C:\Users\scottj\source\repos\Password Manager\Password Manager\obj\Debug\PRIM_App.csproj.CoreCompileInputs.cache
+C:\Users\scottj\source\repos\Password Manager\Password Manager\obj\Debug\PRIM_App.csproj.CopyComplete
+C:\Users\scottj\source\repos\Password Manager\Password Manager\obj\Debug\PRIM_App.Properties.Resources.resources
+C:\Users\scottj\source\repos\Password Manager\Password Manager\bin\Debug\PRIM Application.exe.config
+C:\Users\scottj\source\repos\Password Manager\Password Manager\bin\Debug\PRIM Application.exe
+C:\Users\scottj\source\repos\Password Manager\Password Manager\bin\Debug\PRIM Application.pdb
+C:\Users\scottj\source\repos\Password Manager\Password Manager\obj\Debug\PRIM Application.exe
+C:\Users\scottj\source\repos\Password Manager\Password Manager\obj\Debug\PRIM Application.pdb
